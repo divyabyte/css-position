@@ -1,0 +1,18 @@
+.box{
+    width: 700px;
+    height: 800px;
+    border: 5px solid blue;
+    position: relative;
+    margin: 20px auto;
+}
+.item{
+   background-color: cadetblue;
+   height: 100px;
+   width: 100px;
+   color: white;
+   bottom: 0px;
+}
+
+p{
+    position: fixed;
+}
